@@ -1266,3 +1266,10 @@ figure figcaption {
     font-size: 2rem;
   }
 }
+.dbox{
+  border:2px solid blue;
+}
+.cbox{
+  border:3px solid black;
+  height:500px;
+}
