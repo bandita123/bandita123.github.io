@@ -1303,3 +1303,6 @@ figure figcaption {
   height:60px;
   background-color: blue;
 }
+.cbox_test{
+  border:5px solid black;
+}
