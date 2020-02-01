@@ -1306,3 +1306,12 @@ figure figcaption {
 .cbox_test{
   border:5px solid black;
 }
+.acol{
+  border:2px solid red;
+}
+.bcol{
+  border:2px solid blue;
+}
+.ccol{
+  border:2px solid green;
+}
